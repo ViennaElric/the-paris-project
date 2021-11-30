@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/htt[://ViennaElric.github.io/the-paris-project/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/htt[://ViennaElric.github.io/the-paris-project/static/js/main.169bad59.chunk.js",
-    "main.js.map": "/htt[://ViennaElric.github.io/the-paris-project/static/js/main.169bad59.chunk.js.map",
-    "runtime-main.js": "/htt[://ViennaElric.github.io/the-paris-project/static/js/runtime-main.2246ffb5.js",
-    "runtime-main.js.map": "/htt[://ViennaElric.github.io/the-paris-project/static/js/runtime-main.2246ffb5.js.map",
-    "static/js/2.672cc70c.chunk.js": "/htt[://ViennaElric.github.io/the-paris-project/static/js/2.672cc70c.chunk.js",
-    "static/js/2.672cc70c.chunk.js.map": "/htt[://ViennaElric.github.io/the-paris-project/static/js/2.672cc70c.chunk.js.map",
-    "static/js/3.6ed88937.chunk.js": "/htt[://ViennaElric.github.io/the-paris-project/static/js/3.6ed88937.chunk.js",
-    "static/js/3.6ed88937.chunk.js.map": "/htt[://ViennaElric.github.io/the-paris-project/static/js/3.6ed88937.chunk.js.map",
-    "index.html": "/htt[://ViennaElric.github.io/the-paris-project/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/htt[://ViennaElric.github.io/the-paris-project/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.672cc70c.chunk.js.LICENSE.txt": "/htt[://ViennaElric.github.io/the-paris-project/static/js/2.672cc70c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/htt[://ViennaElric.github.io/the-paris-project/static/media/logo.6ce24c58.svg"
+    "main.css": "/the-paris-project/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/the-paris-project/static/js/main.169bad59.chunk.js",
+    "main.js.map": "/the-paris-project/static/js/main.169bad59.chunk.js.map",
+    "runtime-main.js": "/the-paris-project/static/js/runtime-main.209c7134.js",
+    "runtime-main.js.map": "/the-paris-project/static/js/runtime-main.209c7134.js.map",
+    "static/js/2.672cc70c.chunk.js": "/the-paris-project/static/js/2.672cc70c.chunk.js",
+    "static/js/2.672cc70c.chunk.js.map": "/the-paris-project/static/js/2.672cc70c.chunk.js.map",
+    "static/js/3.6ed88937.chunk.js": "/the-paris-project/static/js/3.6ed88937.chunk.js",
+    "static/js/3.6ed88937.chunk.js.map": "/the-paris-project/static/js/3.6ed88937.chunk.js.map",
+    "index.html": "/the-paris-project/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/the-paris-project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.672cc70c.chunk.js.LICENSE.txt": "/the-paris-project/static/js/2.672cc70c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/the-paris-project/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2246ffb5.js",
+    "static/js/runtime-main.209c7134.js",
     "static/js/2.672cc70c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.169bad59.chunk.js"
