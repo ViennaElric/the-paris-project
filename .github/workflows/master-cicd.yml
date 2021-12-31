@@ -11,7 +11,13 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '12.18'
-      - run: 
+      - name: installing
+        run: 
           npm install
-      - run:
+      - name: test
+        run: 
+          npm run testonce
+      - name: deploy
+        run:
           npm run deploy
+        
