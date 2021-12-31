@@ -5,3 +5,5 @@ export const Footer = () => (
         <p></p>
     </div>
 );
+
+export default Footer;
