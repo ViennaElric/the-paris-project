@@ -20,6 +20,7 @@ jobs:
       - name: setupbotuser
         run: |
           git config --global user.email "vienna.elric@gmail.com"
+          git config --global user.name "viennaelrictest"
       - name: deploy
         run:
           npm run deploy
