@@ -5,6 +5,7 @@ on:
     - main
 jobs:
   Master-CICD:
+    name: Master-CICD
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2

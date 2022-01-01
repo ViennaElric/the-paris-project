@@ -9,6 +9,7 @@ on:
  
 jobs:
   CICD:
+    name: CICD
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
