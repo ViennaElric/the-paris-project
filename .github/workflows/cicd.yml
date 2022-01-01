@@ -1,10 +1,9 @@
-name: master-cicd
+name: cicd
 on: 
-  push:
-    branches:
-    - main
+  - push
+ 
 jobs:
-  Master-CICD:
+  CICD:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -20,11 +19,4 @@ jobs:
       - name: test
         run: 
           npm run testonce
-      - name: Deploy to GitHub Pages
-        uses: Cecilapp/GitHub-Pages-deploy@v3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          email: vienna.elric@gmail.com
-          build_dir: build
-        
+     
