@@ -17,6 +17,9 @@ jobs:
       - name: test
         run: 
           npm run testonce
+      - name: setupbotuser
+        run: |
+          git config --global user.email "vienna.elric@gmail.com"
       - name: deploy
         run:
           npm run deploy
