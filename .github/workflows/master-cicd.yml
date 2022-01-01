@@ -14,6 +14,9 @@ jobs:
       - name: installing
         run: 
           npm install
+      - name: build
+        run:
+          npm run build
       - name: test
         run: 
           npm run testonce
@@ -27,4 +30,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           email: viennaelric@gmail.com
+          build_dir: build
         

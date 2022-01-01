@@ -20,7 +20,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "testonce": "react-scripts test --watchAll=false",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "gh-pages": "gh-pages"
   },
   "eslintConfig": {
     "extends": [
