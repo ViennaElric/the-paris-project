@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-paris-project/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/the-paris-project/static/js/main.357cd3ae.chunk.js",
-    "main.js.map": "/the-paris-project/static/js/main.357cd3ae.chunk.js.map",
+    "main.js": "/the-paris-project/static/js/main.b9c59000.chunk.js",
+    "main.js.map": "/the-paris-project/static/js/main.b9c59000.chunk.js.map",
     "runtime-main.js": "/the-paris-project/static/js/runtime-main.209c7134.js",
     "runtime-main.js.map": "/the-paris-project/static/js/runtime-main.209c7134.js.map",
     "static/js/2.672cc70c.chunk.js": "/the-paris-project/static/js/2.672cc70c.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.209c7134.js",
     "static/js/2.672cc70c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.357cd3ae.chunk.js"
+    "static/js/main.b9c59000.chunk.js"
   ]
 }
